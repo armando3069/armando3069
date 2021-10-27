@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @armando3069
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning Backend development
+- 🌱 I’m currently learning React⚛️ and NodeJs☘🟢 development
 - 💞️ I’m looking to collaborate on students and developers
 - 📫 How to reach me Moldova Chișinău
 
