@@ -1,5 +1,5 @@
 
-# Hello i'm Armando !
+# Hello I'm Armando !
 ## I'm a Full Stack Web Developer, JavaScript 👨‍💻
 
 
