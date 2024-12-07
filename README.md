@@ -1,6 +1,6 @@
 
 # Hello I'm Armando !
-## I'm a Junior Web Developer, JavaScript 👨‍💻
+## I'm a Junior Web Developer, React 👨‍💻⚛️
 
 
 ## Languages and Tools  🚀:
