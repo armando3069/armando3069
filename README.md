@@ -1,7 +1,5 @@
 
 # Hello I'm Armando !
-## I'm a Junior Web Developer, React 👨‍💻⚛️
-
 
 ## Languages and Tools  🚀:
 ### Frontend skils :
